@@ -1,1 +1,1 @@
-pvr.iptvsimple cmake/addons/MyCustom/pvr.iptvsimple
+pvr.iptvsimple file://${CMAKE_SOURCE_DIR}/cmake/addons/local/repo-binary-addons
