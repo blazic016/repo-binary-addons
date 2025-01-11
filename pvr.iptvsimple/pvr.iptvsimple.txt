@@ -1,1 +1,2 @@
-pvr.iptvsimple file://home/iwjdu/xbmc/cmake/addons/local/pvr.iptvsimple
+pvr.iptvsimple file:///home/iwjdu/xbmc/cmake/addons/local/pvr.iptvsimple
+
