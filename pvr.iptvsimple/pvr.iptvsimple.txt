@@ -1,2 +1,2 @@
-pvr.iptvsimple file:///home/iwjdu/pvr.iptvsimple
+pvr.iptvsimple file:///home/iwjdu/kodi/pvr.iptvsimple
 
